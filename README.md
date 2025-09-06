@@ -45,3 +45,4 @@ python integrated3.py
 
 ---
 *A tool to help improve focus and engagement in virtual learning environments.*
+*This was created as an personal project to learn about Opencv and various other associated libraries*
